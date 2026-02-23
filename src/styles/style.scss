@@ -1,0 +1,25 @@
+@use './blocks/container.scss';
+@use './blocks/fonts.scss';
+
+html {
+  min-height: 100%;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  margin: 0;
+  background-color: $primary-bg;
+}
+
+#app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+
+}
+
+main {
+  flex-grow: 1;
+}
+
+
