@@ -1,2 +1,2 @@
 # flight-board
-Departures and arrivals board
+Departures and arrivals board ✈️
