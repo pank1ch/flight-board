@@ -22,7 +22,7 @@ const changeFlag = () => {
       <nav class="navigation">
         <div class="navigation__about">
           <div class="navigation__logo">
-            <img src="/images/main-logo.png" alt="Plane takeoff icon" />
+            <img src="/images/main-logo.svg" alt="Plane takeoff icon" />
           </div>
           <h1 class="navigation__title">AirportBoard</h1>
         </div>
